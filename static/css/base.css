@@ -105,6 +105,10 @@ strong {
     font-size: 40px;
     margin: 10px;
     border-radius: 5px;
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    transform: translate(50%, -50%);
 }
 
 .cta-button:hover {
