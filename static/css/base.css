@@ -14,14 +14,6 @@ body {
     display: flex;
     flex-direction: column;
 }
-/* Footer Styles*/
-footer {
-    font-family: 'Fira Sans', sans-serif;
-    text-align: center;
-    padding: 2%;
-    background-color: #F3D0D7;
-    margin-top: auto;
-}
 
 /* begin Stefan CSS */
 :root {
@@ -234,10 +226,12 @@ nav {
 
 /* Footer Styles*/
 footer {
+    font-family: 'Fira Sans', sans-serif;
     text-align: center;
     padding: 2%;
     background-color: #F3D0D7;
     border-radius: 0px;
+    margin-top: auto;
 }
 
 footer div {
@@ -280,7 +274,7 @@ footer div {
     border-radius: 10px;
 }
 
-#socialmedia-icons a:hover {
+#socialmedia-icons a:hover, #footer-email a:hover {
     background-color: #F3D0D7;
     border: 5px solid #ffefef;
     color: black;
