@@ -95,13 +95,22 @@ strong {
 }
 
 .cta-button {
-    display: inline-block;
-    letter-spacing: 0rem;
-    padding: 10px 20px;
+    transition-duration: 0.4s;
     background-color: var(--primary-color);
-    color: rgb(0, 0, 0);
+    border: 2px solid rgb(226, 59, 95);
+    padding: 10px 20px;
+    text-align: center;
     text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 10px;
     border-radius: 5px;
+}
+
+.cta-button:hover {
+    background-color: rgb(226, 59, 95);
+    border: 2px solid var(--primary-color);
+    color: white;
 }
 
 #articles {
