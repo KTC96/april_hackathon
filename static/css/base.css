@@ -248,8 +248,7 @@ footer div {
     flex-flow: row-wrap;
     list-style-type: none;
     justify-content: space-evenly;
-    padding: 1% 10%;
-
+    padding: 1% 8% 1% 4%;
 }
 
 #socialmedia-icons i {
