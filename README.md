@@ -1,6 +1,34 @@
-# Women's Health April 2024 Hybrid Hackathon 
-# Project Name : ConnectHer
+## ** Women's Health April 2024 Hybrid Hackathon**
+# **Team Name  : ConnectHer**
 # **TABLE OF Contents**
+
+1. [**Introduction**](#introduction)
+
+2. [**Judging Criteria**]
+
+3.  [**Project Goals**](#project-goals)
+
+4. [**UX Design** ](#UX)
+    1. [UX Design- Strategy](#ux-design-strategy)
+    2. [UX Design - Strategy - Target Audience](#ux-design-strategy-target-audience)
+    3. [Wireframe ](#Wireframe)
+    4. [Colors](#color- scheme)
+    5. [fonts](#typography)
+    6.  [Imagery] (#images)
+
+5. [**Features**](#features)
+    1. [In scope ](#features-in-scope)
+
+6. [**Technology**](#technologies)
+    1. [Languages](#langugages)
+    2. [Frameworks and Tools](#frameworks--tools)
+
+7.  [**Testing User Stories**](#testing-user-stories)
+8. [**Media**](#information-page-references)
+9. [**The Team**](the-team)
+10. [**Acknowledgements** ](#Acknowledgements)
+11. [**Disclaimer Warning**](#Disclaimer-Warning)
+
 
 ## Introduction
 
@@ -28,33 +56,65 @@ Each forum will contain a link to appropriate medical information as well as giv
 5. The project demonstrates innovation and creativity
 - Lack of open communication and stigma is a barrier to women finding the appropriate support in a health setting. The project addresses a need by opening up dialogue into issues such as endometriosis or the menopause. Real women and access to appropriate medical information together innovates a path which leads women to greater health autonomy. 
 
-## The Future
+
+##  UX Design 
+
+1. **Design- Strategy**
 
 
-## Design (include wireframe)
-- Initial brainstorm wireframe
+2. **Design - Strategy - Target Audience**
 
-- 
 
-## Tech used
+3.**Wireframe**
+
+4.  **Colors**
+
+5.**fonts**
+
+6 **Imagery**
+
+5.**Features**
+
+
+ **In scope**
+
+
+6. ## [**Technology**](#technologies)
+
+1.  **Languages**
+
+
+
+ 2. **Frameworks and Tools**
 - GitHub
 - HTML
 - CSS
 - BootStrap
 - Django
-
-## Credits
-- GitHub
+ -GitHub
 - Google Fonts
+
+7. ## **Testing User Stories**
+
+
+8. ## Credits
+- 
+
+9.   [**Media**](#Media)
 
 ### Information page references
 - (Endometriosis)[https://swhr.org/resources/endometriosis-toolkit-a-patient-empowerment-guide/?gad_source=1] 
 - (Menopause)[https://www.who.int/news-room/fact-sheets/detail/menopause]
 
-## The Team
+10. ## The Team
 - Stephanie Bell (Front-end) (LinkedIn)[https://www.linkedin.com/in/stephanie-bell-529a362b/] (GitHub)[https://github.com/bpstephanie/]
 - Kyle Clow (Scrum master and back-end) (LinkedIn)[https://www.linkedin.com/in/kyle-clow/] (GitHub)[https://github.com/KTC96]
 - Emma Lamont (Front-end) (LinkedIn)[https://www.linkedin.com/in/emma-lamont] (GitHub)[https://github.com/elamont174]
 - Stefan Ruppe (Front-end) (LinkedIn)[https://www.linkedin.com/in/stefan-ruppe/] (GitHub)[https://github.com/CsClown/]
 - Ash Selvaraj (Front-end) (LinkedIn) [https://www.linkedin.com/in/ashwinkarthik-selvaraj-12882751/] (GitHub)[https://github.com/ashwinsel] 
 - ib LinkedIn: GitHub:
+
+11. ## **Acknowledgements** 
+
+
+12. ## **Disclaimer Warning**
