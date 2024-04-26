@@ -36,9 +36,9 @@ CSRF_TRUSTED_ORIGINS = os.environ.get('CSRF_TRUSTED_ORIGINS', '').split(',')
 SITE_ID = 1
 
 cloudinary.config(
-    cloud_name='april-hackathon',
-    api_key='333271629987245',
-    api_secret='u5nX1rEFPCToxhplisVgyZoPYcQ'
+    cloud_name='dgtct7pzk',
+    api_key='641258792396681',
+    api_secret='DeyQb4TKOt9pjPCihQGFVzsQh2g'
     )
 
 # Application definition
