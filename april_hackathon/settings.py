@@ -9,7 +9,9 @@ https://docs.djangoproject.com/en/4.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
-
+import cloudinary
+import cloudinary.uploader
+import cloudinary.api
 from pathlib import Path
 import os
 import dj_database_url
@@ -32,6 +34,12 @@ ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', '').split(',')
 CSRF_TRUSTED_ORIGINS = os.environ.get('CSRF_TRUSTED_ORIGINS', '').split(',')
 
 SITE_ID = 1
+
+cloudinary.config(
+    cloud_name='april-hackathon',
+    api_key='333271629987245',
+    api_secret='u5nX1rEFPCToxhplisVgyZoPYcQ'
+    )
 
 # Application definition
 INSTALLED_APPS = [
