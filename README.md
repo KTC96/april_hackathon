@@ -27,6 +27,11 @@ Each forum will contain a link to appropriate medical information as well as giv
 - Lack of open communication and stigma is a barrier to women finding the appropriate support in a health setting. The project addresses a need by opening up dialogue into issues such as endometriosis or the menopause. Real women and access to appropriate medical information together innovates a path which leads women to greater health autonomy. 
 
 ## The Future
+If we were to progress further with this project we would want to include more features:
+- The opportunity to organise local meet-ups - either by site staff or to publicise events by users.
+- A buddy system where users can be matched up with each other depending on the topics that they want to discuss. An advanced version of this would pair a user up with an expert.
+- A Google API map showing healthcare centres focused on women's healthcare.
+- The ability to further safeguard by moderating posts before publication.
 
 
 ## Design 
